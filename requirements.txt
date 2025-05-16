@@ -1,0 +1,20 @@
+# Core dependencies
+tkinter>=8.6  # GUI framework
+pillow>=9.0.0  # Image processing for UI
+ttkthemes>=3.2.0  # Modern themes for tkinter
+
+# Database
+sqlite3  # Built-in, no version needed
+
+# Email
+secure-smtplib>=0.1.1  # Secure SMTP connection
+
+# Development tools
+pytest>=7.0.0  # Testing
+black>=22.0.0  # Code formatting
+flake8>=4.0.0  # Linting
+mypy>=0.900  # Type checking
+
+# Documentation
+sphinx>=4.0.0  # Documentation generation
+sphinx-rtd-theme>=1.0.0  # Documentation theme 
